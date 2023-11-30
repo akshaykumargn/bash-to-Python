@@ -42,7 +42,7 @@ cd eforce-export
 ```bash
 bash2python.py
 
-##File Structure
+## File Structure
 
 The script generates the following files:
 
@@ -57,6 +57,6 @@ Notes
 
     This script is designed for a specific use case and may require adjustments for different scenarios.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
