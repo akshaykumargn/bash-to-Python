@@ -40,7 +40,7 @@ cd eforce-export
 3. Run the script:
 
 ```bash
-bash2py.py
+bash2python.py
 
 ##File Structure
 
